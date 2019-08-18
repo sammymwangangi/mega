@@ -12,9 +12,9 @@
                         <div id="rev_slider_1014_1" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.3.0.2">
                             <ul>
                                 <!-- SLIDE 1 -->
-                                <li data-index="rs-1000" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/main-slider/slide1.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                                <li data-index="rs-1000" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/slides/slide2.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                                     <!-- MAIN IMAGE -->
-                                    <img src="images/main-slider/slide1.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina/>
+                                    <img src="images/slides/slide2.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina/>
                                     <!-- LAYERS -->
                                     <!-- LAYER NR. 1 [ for overlay ] -->
                                     <div class="tp-caption tp-shape tp-shapewrapper " 
@@ -116,9 +116,9 @@
                 style="z-index: 13;"><a href="javascript:void(0);" class="site-button  button-skew"><span>Read More</span><i class="fa fa-angle-right"></i></a> </div>
                                 </li>
                                 <!-- SLIDE 2 -->
-                                <li data-index="rs-2000" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/main-slider/slide2.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                                <li data-index="rs-2000" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/slides/3.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                                     <!-- MAIN IMAGE -->
-                                    <img src="images/main-slider/slide2.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina/>
+                                    <img src="images/slides/3.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina/>
                                     <!-- LAYERS -->
                                     <!-- LAYER NR. 1 [ for overlay ] -->
                                     <div class="tp-caption tp-shape tp-shapewrapper " 
@@ -220,9 +220,9 @@
                 style="z-index: 13;"><a href="javascript:void(0);" class="site-button  button-skew"><span>Read More</span><i class="fa fa-angle-right"></i></a> </div>
                                 </li>
                                 <!-- SLIDE 3 -->
-                                <li data-index="rs-3000" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="images/main-slider/slide3.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                                <li data-index="rs-3000" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="images/slides/slide5.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                                     <!-- MAIN IMAGE -->
-                                    <img src="images/main-slider/slide3.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina/>
+                                    <img src="images/slides/slide5.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina/>
                                     <!-- LAYERS -->
                                     <!-- LAYER NR. 1 [ for overlay ] -->
                                     <div class="tp-caption tp-shape tp-shapewrapper " 
@@ -348,9 +348,9 @@
                                 </div>
                             </div>
                             <div class="col-lg-6 m-t20">
-								<a href="#" class="site-button-secondry button-skew m-l10">
+								<a href="{{url('contact')}}" class="site-button-secondry button-skew m-l10">
 								<span>Contact Us</span><i class="fa fa-angle-right"></i></a> 
-								<a href="#" class="site-button-secondry button-skew m-l20">
+								<a href="{{url('about')}}" class="site-button-secondry button-skew m-l20">
 								<span>View more</span><i class="fa fa-angle-right"></i></a>
 							</div>
                         </div>
@@ -370,15 +370,15 @@
                                 <div class="dez-separator bg-secondry style-skew"></div>
                             </div>
                             <div class="clear"></div>
-                            <p><strong>Constructzilla is ready to build you. We provide best construction service to our clients. We create best building design that you should be proud of. To realize your idea, we work beautifully and creatively for your own dream.</strong></p>
-                            <p class="m-b50">We are thinkers and dreamers, maker installation and product for buildings. We build and has built hotels, residences hospitals and sports venues. We are devoted to the task to construct your dream to fit all your needs and preference. We realize that our success starts and ends with our employees so we try to provide excellent work to our clients with a level of expertise. </p>
+                            <p><strong>Megatricity is a customer service oriented contractor and we always strive to do the right thing on behalf of our clients and partners in the industry. Our people love what they do and take pride in delivering excellent projects.</strong></p>
+                            <p class="m-b50">Megatricity is a customer service oriented contractor and we always strive to do the right thing on behalf of our clients and partners in the industry. Our people love what they do and take pride in delivering excellent projects </p>
                             <div class="row">
                                 <div class="col-md-6 col-lg-6 col-sm-6">
                                     <div class="icon-bx-wraper left m-b30">
                                         <div class="icon-bx-sm bg-secondry "> <span class="icon-cell"><i class="fa fa-building-o text-primary"></i></span> </div>
                                         <div class="icon-content">
-                                            <h3 class="dez-tilte text-uppercase">Construction</h3>
-                                            <p>We provide the best construction project for you.</p>
+                                            <h3 class="dez-tilte text-uppercase">ELECTRICAL SERVICES</h3>
+                                            <p>we handle all electrical projects from residential, commercial to industrial.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -386,8 +386,8 @@
                                     <div class="icon-bx-wraper left m-b30">
                                         <div class="icon-bx-sm bg-secondry "> <span class="icon-cell"><i class="fa fa-user text-primary"></i></span> </div>
                                         <div class="icon-content">
-                                            <h3 class="dez-tilte text-uppercase">Architecture</h3>
-                                            <p>Our architect service provides high-end design for you.</p>
+                                            <h3 class="dez-tilte text-uppercase">Solar Energy</h3>
+                                            <p>It's time to maximize the benefits of solar panels and we are the company to help you with the process, from start to finish.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -395,8 +395,8 @@
                                     <div class="icon-bx-wraper left m-b30">
                                         <div class="icon-bx-sm bg-secondry "> <span class="icon-cell"><i class="fa fa-truck text-primary"></i></span> </div>
                                         <div class="icon-content">
-                                            <h3 class="dez-tilte text-uppercase">Consulting</h3>
-                                            <p>Our consulting team is always ready to help you.</p>
+                                            <h3 class="dez-tilte text-uppercase">Civil & Design</h3>
+                                            <p> We design Structures (Schematic & 3D model) and ensure that each project however small, is Innovative, detailed and built to highest standards.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -404,15 +404,24 @@
                                     <div class="icon-bx-wraper left m-b30">
                                         <div class="icon-bx-sm bg-secondry "> <span class="icon-cell"><i class="fa fa-book text-primary"></i></span> </div>
                                         <div class="icon-content">
-                                            <h3 class="dez-tilte text-uppercase">Mechanical</h3>
-                                            <p>We are mechanically strong to build your building. </p>
+                                            <h3 class="dez-tilte text-uppercase">Plumbing & Sewerage</h3>
+                                            <p>We give our customers choices in top-notch residential and commercial plumbing services.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-lg-6 col-sm-6">
+                                    <div class="icon-bx-wraper left m-b30">
+                                        <div class="icon-bx-sm bg-secondry "> <span class="icon-cell"><i class="fa fa-book text-primary"></i></span> </div>
+                                        <div class="icon-content">
+                                            <h3 class="dez-tilte text-uppercase">ICT</h3>
+                                            <p>We Help Clients Achieve Success through Technology. Our commitment to our clients remains our top priority.</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-5">
-                            <div class="dez-thu m"><img src="images/worker.png" alt=""></div>
+                            <div class="dez-thu m"><img src="images/paint.jpg" alt=""></div>
                         </div>
                     </div>
                 </div>
@@ -423,11 +432,11 @@
         <div class="section-full bg-img-fix content-inner-2 overlay-black-middle" style="background-image:url(images/background/bg1.jpg);">
             <div class="container">
                 <div class="section-head  text-center text-white">
-                    <h2 class="text-uppercase">Our Projects</h2>
+                    <h2 class="text-uppercase">Our Services</h2>
                     <div class="dez-separator-outer ">
                         <div class="dez-separator bg-white style-skew"></div>
                     </div>
-                    <p>Because of best quality & service, victory has always been our goal, we only repRecent the best talent. We’ll do everything for you which can put you at ease with the correct guidance, simplicity & honesty.</p>
+                    <p>MEGATRICITY is composed of craftsmen who deliver unique products that are highly innovative and world Class</p>
                 </div>
                 <div class="site-filters clearfix center m-b40" id="portfolio">
                     <ul class="filters" data-toggle="buttons">
@@ -436,70 +445,181 @@
                             <a href="#" class="site-button-secondry button-skew"><span>Show All</span></a> </li>
                         <li data-filter="home" class="btn">
                             <input type="radio" >
-                            <a href="#" class="site-button-secondry button-skew"><span>Builder</span></a> </li>
+                            <a href="#" class="site-button-secondry button-skew"><span>Electrical Services</span></a> </li>
                         <li data-filter="office" class="btn">
                             <input type="radio">
-                            <a href="#" class="site-button-secondry button-skew"><span>Electric</span></a> </li>
+                            <a href="#" class="site-button-secondry button-skew"><span>Solar Energy</span></a> </li>
                         <li data-filter="commercial" class="btn">
                             <input type="radio">
-                            <a href="#" class="site-button-secondry button-skew"><span>Painting</span></a> </li>
+                            <a href="#" class="site-button-secondry button-skew"><span>Civil</span></a> </li>
                         <li data-filter="window" class="btn">
                             <input type="radio">
-                            <a href="#" class="site-button-secondry button-skew"><span>Hammer</span></a> </li>
+                            <a href="#" class="site-button-secondry button-skew"><span>Plumbing & Sewerage</span></a> </li>
+                        <li data-filter="ict" class="btn">
+                            <input type="radio">
+                            <a href="#" class="site-button-secondry button-skew"><span>ICT</span></a> </li>
                     </ul>
                 </div>
                 <div class="clearfix">
                     <ul id="masonry" class="row dez-gallery-listing gallery-grid-4 gallery mfp-gallery">
                         <li class="home card-container col-lg-4 col-md-4 col-sm-6 col-6">
                             <div class="dez-box dez-gallery-box">
-                                <div class="dez-media dez-img-overlay1 dez-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/our-work/pic1.jpg"  alt=""> </a>
+                                <div class="dez-media dez-img-overlay1 dez-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/services/service1.png"  alt=""> </a>
                                     <div class="overlay-bx">
-                                        <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fa fa-link icon-bx-xs"></i> </a> <a  href="images/our-work/pic1.jpg" class="mfp-link" title="Title Come Here"> <i class="fa fa-picture-o icon-bx-xs"></i> </a> </div>
+                                        <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fa fa-link icon-bx-xs"></i> </a> <a  href="images/services/service1.png" class="mfp-link" title="Title Come Here"> <i class="fa fa-picture-o icon-bx-xs"></i> </a> </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="home card-container col-lg-4 col-md-4 col-sm-6 col-6">
+                            <div class="dez-box dez-gallery-box">
+                                <div class="dez-media dez-img-overlay1 dez-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/photos/electrical/reinsurance.jpg"  alt=""> </a>
+                                    <div class="overlay-bx">
+                                        <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fa fa-link icon-bx-xs"></i> </a> <a  href="images/photos/electrical/reinsurance.jpg" class="mfp-link" title="Title Come Here"> <i class="fa fa-picture-o icon-bx-xs"></i> </a> </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="home card-container col-lg-4 col-md-4 col-sm-6 col-6">
+                            <div class="dez-box dez-gallery-box">
+                                <div class="dez-media dez-img-overlay1 dez-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/photos/electrical/reinsurance1.jpg"  alt=""> </a>
+                                    <div class="overlay-bx">
+                                        <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fa fa-link icon-bx-xs"></i> </a> <a  href="images/photos/electrical/reinsurance1.jpg" class="mfp-link" title="Title Come Here"> <i class="fa fa-picture-o icon-bx-xs"></i> </a> </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="home card-container col-lg-4 col-md-4 col-sm-6 col-6">
+                            <div class="dez-box dez-gallery-box">
+                                <div class="dez-media dez-img-overlay1 dez-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/photos/electrical/ruiru_flats.jpg"  alt=""> </a>
+                                    <div class="overlay-bx">
+                                        <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fa fa-link icon-bx-xs"></i> </a> <a  href="images/photos/electrical/ruiru_flats.jpg" class="mfp-link" title="Title Come Here"> <i class="fa fa-picture-o icon-bx-xs"></i> </a> </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="home card-container col-lg-4 col-md-4 col-sm-6 col-6">
+                            <div class="dez-box dez-gallery-box">
+                                <div class="dez-media dez-img-overlay1 dez-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/photos/electrical/southc.jpg"  alt=""> </a>
+                                    <div class="overlay-bx">
+                                        <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fa fa-link icon-bx-xs"></i> </a> <a  href="images/photos/electrical/southc.jpg" class="mfp-link" title="Title Come Here"> <i class="fa fa-picture-o icon-bx-xs"></i> </a> </div>
                                     </div>
                                 </div>
                             </div>
                         </li>
                         <li class="office card-container col-lg-4 col-md-4 col-sm-6 col-6">
                             <div class="dez-box dez-gallery-box">
-                                <div class="dez-media dez-img-overlay1 dez-img-effect zoom-slow dez-img-effect zoom"> <a href="javascript:void(0);"> <img src="images/our-work/pic2.jpg"  alt=""> </a>
+                                <div class="dez-media dez-img-overlay1 dez-img-effect zoom-slow dez-img-effect zoom"> <a href="javascript:void(0);"> <img src="images/services/service2.png"  alt=""> </a>
                                     <div class="overlay-bx">
-                                        <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fa fa-link icon-bx-xs"></i> </a> <a  href="images/our-work/pic2.jpg" class="mfp-link" title="Title Come Here"> <i class="fa fa-picture-o icon-bx-xs"></i> </a> </div>
+                                        <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fa fa-link icon-bx-xs"></i> </a> <a  href="images/services/service2.png" class="mfp-link" title="Title Come Here"> <i class="fa fa-picture-o icon-bx-xs"></i> </a> </div>
                                     </div>
                                 </div>
                             </div>
                         </li>
-                        <li class="children-aid card-container col-lg-4 col-md-4 col-sm-6 col-6">
+                        <li class="office card-container col-lg-4 col-md-4 col-sm-6 col-6">
                             <div class="dez-box dez-gallery-box">
-                                <div class="dez-media dez-img-overlay1 dez-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/our-work/pic3.jpg"  alt=""> </a>
+                                <div class="dez-media dez-img-overlay1 dez-img-effect zoom-slow dez-img-effect zoom"> <a href="javascript:void(0);"> <img src="images/photos/solar/james2.jpg"  alt=""> </a>
                                     <div class="overlay-bx">
-                                        <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fa fa-link icon-bx-xs"></i> </a> <a href="images/our-work/pic3.jpg" class="mfp-link" title="Title Come Here"> <i class="fa fa-picture-o icon-bx-xs"></i> </a> </div>
+                                        <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fa fa-link icon-bx-xs"></i> </a> <a  href="images/photos/solar/james2.jpg" class="mfp-link" title="Title Come Here"> <i class="fa fa-picture-o icon-bx-xs"></i> </a> </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="office card-container col-lg-4 col-md-4 col-sm-6 col-6">
+                            <div class="dez-box dez-gallery-box">
+                                <div class="dez-media dez-img-overlay1 dez-img-effect zoom-slow dez-img-effect zoom"> <a href="javascript:void(0);"> <img src="images/photos/solar/joy_flats.jpg"  alt=""> </a>
+                                    <div class="overlay-bx">
+                                        <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fa fa-link icon-bx-xs"></i> </a> <a  href="images/photos/solar/joy_flats.jpg" class="mfp-link" title="Title Come Here"> <i class="fa fa-picture-o icon-bx-xs"></i> </a> </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="ict card-container col-lg-4 col-md-4 col-sm-6 col-6">
+                            <div class="dez-box dez-gallery-box">
+                                <div class="dez-media dez-img-overlay1 dez-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/services/service4.png"  alt=""> </a>
+                                    <div class="overlay-bx">
+                                        <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fa fa-link icon-bx-xs"></i> </a> <a href="images/services/service4.png" class="mfp-link" title="Title Come Here"> <i class="fa fa-picture-o icon-bx-xs"></i> </a> </div>
                                     </div>
                                 </div>
                             </div>
                         </li>
                         <li class="commercial card-container col-lg-4 col-md-4 col-sm-6 col-6">
                             <div class="dez-box dez-gallery-box">
-                                <div class="dez-media dez-img-overlay1 dez-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/our-work/pic4.jpg"  alt=""> </a>
+                                <div class="dez-media dez-img-overlay1 dez-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/photos/civil/civil5.jpg"  alt=""> </a>
                                     <div class="overlay-bx">
-                                        <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fa fa-link icon-bx-xs"></i> </a> <a  href="images/our-work/pic4.jpg" class="mfp-link" title="Title Come Here"> <i class="fa fa-picture-o icon-bx-xs"></i> </a> </div>
+                                        <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fa fa-link icon-bx-xs"></i> </a> <a  href="images/photos/civil/civil5.jpg" class="mfp-link" title="Title Come Here"> <i class="fa fa-picture-o icon-bx-xs"></i> </a> </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="commercial card-container col-lg-4 col-md-4 col-sm-6 col-6">
+                            <div class="dez-box dez-gallery-box">
+                                <div class="dez-media dez-img-overlay1 dez-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/photos/civil/civil.jpg"  alt=""> </a>
+                                    <div class="overlay-bx">
+                                        <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fa fa-link icon-bx-xs"></i> </a> <a  href="images/photos/civil/civil.jpg" class="mfp-link" title="Title Come Here"> <i class="fa fa-picture-o icon-bx-xs"></i> </a> </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="commercial card-container col-lg-4 col-md-4 col-sm-6 col-6">
+                            <div class="dez-box dez-gallery-box">
+                                <div class="dez-media dez-img-overlay1 dez-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/photos/civil/civil2.jpg"  alt=""> </a>
+                                    <div class="overlay-bx">
+                                        <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fa fa-link icon-bx-xs"></i> </a> <a  href="images/photos/civil/civil2.jpg" class="mfp-link" title="Title Come Here"> <i class="fa fa-picture-o icon-bx-xs"></i> </a> </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="commercial card-container col-lg-4 col-md-4 col-sm-6 col-6">
+                            <div class="dez-box dez-gallery-box">
+                                <div class="dez-media dez-img-overlay1 dez-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/photos/civil/civil3.jpg"  alt=""> </a>
+                                    <div class="overlay-bx">
+                                        <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fa fa-link icon-bx-xs"></i> </a> <a  href="images/photos/civil/civil3.jpg" class="mfp-link" title="Title Come Here"> <i class="fa fa-picture-o icon-bx-xs"></i> </a> </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="commercial card-container col-lg-4 col-md-4 col-sm-6 col-6">
+                            <div class="dez-box dez-gallery-box">
+                                <div class="dez-media dez-img-overlay1 dez-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/photos/civil/civil4.jpg"  alt=""> </a>
+                                    <div class="overlay-bx">
+                                        <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fa fa-link icon-bx-xs"></i> </a> <a  href="images/photos/civil/civil4.jpg" class="mfp-link" title="Title Come Here"> <i class="fa fa-picture-o icon-bx-xs"></i> </a> </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="commercial card-container col-lg-4 col-md-4 col-sm-6 col-6">
+                            <div class="dez-box dez-gallery-box">
+                                <div class="dez-media dez-img-overlay1 dez-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/photos/civil/civil6.jpg"  alt=""> </a>
+                                    <div class="overlay-bx">
+                                        <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fa fa-link icon-bx-xs"></i> </a> <a  href="images/photos/civil/civil6.jpg" class="mfp-link" title="Title Come Here"> <i class="fa fa-picture-o icon-bx-xs"></i> </a> </div>
                                     </div>
                                 </div>
                             </div>
                         </li>
                         <li class="window card-container col-lg-4 col-md-4 col-sm-6 col-6">
                             <div class="dez-box dez-gallery-box">
-                                <div class="dez-media dez-img-overlay1 dez-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/our-work/pic5.jpg"  alt=""> </a>
+                                <div class="dez-media dez-img-overlay1 dez-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/photos/plumbing/plumbing4.jpg"  alt=""> </a>
                                     <div class="overlay-bx">
-                                        <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fa fa-link icon-bx-xs"></i> </a> <a  href="images/our-work/pic5.jpg" class="mfp-link" title="Title Come Here"> <i class="fa fa-picture-o icon-bx-xs"></i> </a> </div>
+                                        <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fa fa-link icon-bx-xs"></i> </a> <a  href="images/photos/plumbing/plumbing4.jpg" class="mfp-link" title="Title Come Here"> <i class="fa fa-picture-o icon-bx-xs"></i> </a> </div>
                                     </div>
                                 </div>
                             </div>
                         </li>
-                        <li class="apartment card-container col-lg-4 col-md-4 col-sm-6 col-6">
+                        <li class="window card-container col-lg-4 col-md-4 col-sm-6 col-6">
                             <div class="dez-box dez-gallery-box">
-                                <div class="dez-media dez-img-overlay1 dez-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/our-work/pic6.jpg"  alt=""> </a>
+                                <div class="dez-media dez-img-overlay1 dez-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/photos/plumbing/plumbing3.jpg"  alt=""> </a>
                                     <div class="overlay-bx">
-                                        <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fa fa-link icon-bx-xs"></i> </a> <a  href="images/our-work/pic6.jpg" class="mfp-link" title="Title Come Here"> <i class="fa fa-picture-o icon-bx-xs"></i> </a> </div>
+                                        <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fa fa-link icon-bx-xs"></i> </a> <a  href="images/photos/plumbing/plumbing3.jpg" class="mfp-link" title="Title Come Here"> <i class="fa fa-picture-o icon-bx-xs"></i> </a> </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="window card-container col-lg-4 col-md-4 col-sm-6 col-6">
+                            <div class="dez-box dez-gallery-box">
+                                <div class="dez-media dez-img-overlay1 dez-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/photos/plumbing/plumbing2.jpg"  alt=""> </a>
+                                    <div class="overlay-bx">
+                                        <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fa fa-link icon-bx-xs"></i> </a> <a  href="images/photos/plumbing/plumbing2.jpg" class="mfp-link" title="Title Come Here"> <i class="fa fa-picture-o icon-bx-xs"></i> </a> </div>
                                     </div>
                                 </div>
                             </div>
@@ -610,91 +730,6 @@
             </div>
         </div>
         <!-- Company staus END -->
-        <!-- Team member -->
-        <div class="section-full bg-white content-inner">
-            <div class="container">
-                <div class="section-head text-center ">
-                    <h2 class="text-uppercase"> Meet The Team</h2>
-                    <div class="dez-separator-outer ">
-                        <div class="dez-separator bg-secondry style-skew"></div>
-                    </div>
-                    <p>Our smart team takes care of everything. The entire team has been great to work with from start to finish. Our team is focused on target and best service. </p>
-                </div>
-                <div class="section-content text-center ">
-                    <div class="row">
-                        <div class="col-lg-3 col-md-6 col-sm-6">
-                            <div class="dez-box m-b30">
-                                <div class="dez-media"> <a href="javascript:;"> <img width="358" height="460" alt="" src="images/our-team/pic1.jpg"> </a>
-                                    <div class="dez-info-has skew-has  bg-primary">
-                                        <ul class="dez-social-icon dez-border">
-                                            <li><a class="fa fa-facebook" href="javascript:void(0);"></a></li>
-                                            <li><a class="fa fa-twitter" href="javascript:void(0);"></a></li>
-                                            <li><a class="fa fa-linkedin" href="javascript:void(0);"></a></li>
-                                            <li><a class="fa fa-facebook" href="javascript:void(0);"></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="p-a10">
-                                    <h4 class="dez-title text-uppercase"><a href="javascript:;">Nashid Martines</a></h4>
-                                    <span class="dez-member-position">Director</span> </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 col-sm-6">
-                            <div class="dez-box m-b30">
-                                <div class="dez-media"> <a href="javascript:;"> <img width="358" height="460" alt="" src="images/our-team/pic2.jpg"> </a>
-                                    <div class="dez-info-has skew-has bg-primary">
-                                        <ul class="dez-social-icon dez-border">
-                                            <li><a class="fa fa-facebook" href="javascript:void(0);"></a></li>
-                                            <li><a class="fa fa-twitter" href="javascript:void(0);"></a></li>
-                                            <li><a class="fa fa-linkedin" href="javascript:void(0);"></a></li>
-                                            <li><a class="fa fa-facebook" href="javascript:void(0);"></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="p-a10">
-                                    <h4 class="dez-title text-uppercase"><a href="javascript:;">Hackson Willingham</a></h4>
-                                    <span class="dez-member-position">Developer</span> </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 col-sm-6">
-                            <div class="dez-box m-b30">
-                                <div class="dez-media"> <a href="javascript:;"> <img width="358" height="460" alt="" src="images/our-team/pic3.jpg"> </a>
-                                    <div class="dez-info-has skew-has bg-primary">
-                                        <ul class="dez-social-icon dez-border">
-                                            <li><a class="fa fa-facebook" href="javascript:void(0);"></a></li>
-                                            <li><a class="fa fa-twitter" href="javascript:void(0);"></a></li>
-                                            <li><a class="fa fa-linkedin" href="javascript:void(0);"></a></li>
-                                            <li><a class="fa fa-facebook" href="javascript:void(0);"></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="p-a10 bg-white">
-                                    <h4 class="dez-title text-uppercase"><a href="javascript:;">konne Backfield</a></h4>
-                                    <span class="dez-member-position">Designer</span> </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 col-sm-6">
-                            <div class="dez-box m-b10">
-                                <div class="dez-media"> <a href="javascript:;"> <img width="358" height="460" alt="" src="images/our-team/pic4.jpg"> </a>
-                                    <div class="dez-info-has skew-has bg-primary">
-                                        <ul class="dez-social-icon dez-border">
-                                            <li><a class="fa fa-facebook" href="javascript:void(0);"></a></li>
-                                            <li><a class="fa fa-twitter" href="javascript:void(0);"></a></li>
-                                            <li><a class="fa fa-linkedin" href="javascript:void(0);"></a></li>
-                                            <li><a class="fa fa-facebook" href="javascript:void(0);"></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="p-a10">
-                                    <h4 class="dez-title text-uppercase"><a href="javascript:;">konne Backfield</a></h4>
-                                    <span class="dez-member-position">Manager</span> </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Team member END -->
         <!-- Latest blog -->
         <div class="section-full content-inner ">
             <div class="container">
@@ -824,32 +859,42 @@
                     <div class="client-logo-carousel owl-carousel owl-btn-center-lr">
                         <div class="item">
                             <div class="ow-client-logo">
-                                <div class="client-logo"><a href="#"><img src="images/client-logo/logo1.jpg" alt=""></a></div>
+                                <div class="client-logo"><a href="#"><img src="images/nema.jpg" alt=""></a></div>
                             </div>
                         </div>
                         <div class="item">
                             <div class="ow-client-logo">
-                                <div class="client-logo"> <a href="#"><img src="images/client-logo/logo2.jpg" alt=""></a> </div>
+                                <div class="client-logo"> <a href="#"><img src="images/erc.png" alt=""></a> </div>
                             </div>
                         </div>
                         <div class="item">
                             <div class="ow-client-logo">
-                                <div class="client-logo"> <a href="#"><img src="images/client-logo/logo1.jpg" alt=""></a> </div>
+                                <div class="client-logo"> <a href="#"><img src="images/kensen.png" alt=""></a> </div>
                             </div>
                         </div>
                         <div class="item">
                             <div class="ow-client-logo">
-                                <div class="client-logo"> <a href="#"><img src="images/client-logo/logo3.jpg" alt=""></a> </div>
+                                <div class="client-logo"> <a href="#"><img src="images/ncc.jpeg" alt=""></a> </div>
                             </div>
                         </div>
                         <div class="item">
                             <div class="ow-client-logo">
-                                <div class="client-logo"> <a href="#"><img src="images/client-logo/logo4.jpg" alt=""></a> </div>
+                                <div class="client-logo"> <a href="#"><img src="images/nca.png" alt=""></a> </div>
                             </div>
                         </div>
                         <div class="item">
                             <div class="ow-client-logo">
-                                <div class="client-logo"> <a href="#"><img src="images/client-logo/logo3.jpg" alt=""></a> </div>
+                                <div class="client-logo"> <a href="#"><img src="images/scheneider.png" alt=""></a> </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="ow-client-logo">
+                                <div class="client-logo"> <a href="#"><img src="images/whc.png" alt=""></a> </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="ow-client-logo">
+                                <div class="client-logo"> <a href="#"><img src="images/tronic.png" alt=""></a> </div>
                             </div>
                         </div>
                     </div>

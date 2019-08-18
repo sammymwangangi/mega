@@ -4,10 +4,10 @@
     <!-- Content -->
     <div class="page-content">
         <!-- inner page banner -->
-        <div class="dez-bnr-inr overlay-black-middle" style="background-image:url(images/background/bg4.jpg);">
+        <div class="dez-bnr-inr overlay-black-middle" style="background-image:url(images/gallery/civil/archtech.jpg);">
             <div class="container">
                 <div class="dez-bnr-inr-entry">
-                    <h1 class="text-white">About us 1</h1>
+                    <h1 class="text-white">About Us</h1>
                 </div>
             </div>
         </div>
@@ -17,7 +17,7 @@
             <div class="container">
                 <ul class="list-inline">
                     <li><a href="#">Home</a></li>
-                    <li>About us 1</li>
+                    <li>About Us</li>
                 </ul>
             </div>
         </div>
@@ -30,11 +30,11 @@
                     <div class="section-content">
                         <div class="row">
                             <div class="col-lg-7 col-md-12">
-                                <h1 class="m-b20"> About  Company</h1>
+                                <h1 class="m-b20"> About  Megatricity</h1>
                                 <div class="dez-separator bg-primary"></div>
                                 <div class="clear"></div>
-                                <p><strong>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</strong></p>
-                                <p class="m-b50">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the with the release of Letraset sheets containing Lorem Ipsum [...]</p>
+                                <p><strong>Megatricity is a customer service oriented contractor and we always strive to do the right thing on behalf of our clients and partners in the industry. Our people love what they do and take pride in delivering excellent projects.</strong></p>
+                                <p class="m-b50">MEGATRICITY is a long-established, industry-leading Electrical Contractor and supply company that specializes in finding possibilities where others see only complications.</p>
                                 <div class="row">
                                     <div class="col-md-6 col-lg-6 col-sm-6">
                                         <div class="icon-bx-wraper left m-b30">
