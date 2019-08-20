@@ -16,7 +16,7 @@
         <div class="breadcrumb-row">
             <div class="container">
                 <ul class="list-inline">
-                    <li><a href="#">Home</a></li>
+                    <li><a href="{{url('/')}}">Home</a></li>
                     <li>About Us</li>
                 </ul>
             </div>
@@ -24,64 +24,75 @@
         <!-- Breadcrumb row END -->
         <!-- contact area -->
         <div class="clearfix">
-            <!-- About Company -->
-            <div class="section-full bg-gray content-inner" style="background-image: url(images/bg-img.png); background-repeat: repeat-x; background-position: left bottom -37px;">
-                <div class="container">
-                    <div class="section-content">
-                        <div class="row">
-                            <div class="col-lg-7 col-md-12">
-                                <h1 class="m-b20"> About  Megatricity</h1>
-                                <div class="dez-separator bg-primary"></div>
-                                <div class="clear"></div>
-                                <p><strong>Megatricity is a customer service oriented contractor and we always strive to do the right thing on behalf of our clients and partners in the industry. Our people love what they do and take pride in delivering excellent projects.</strong></p>
-                                <p class="m-b50">MEGATRICITY is a long-established, industry-leading Electrical Contractor and supply company that specializes in finding possibilities where others see only complications.</p>
-                                <div class="row">
-                                    <div class="col-md-6 col-lg-6 col-sm-6">
-                                        <div class="icon-bx-wraper left m-b30">
-                                            <div class="icon-bx-sm bg-secondry "> <span class="icon-cell"><i class="fa fa-building-o text-primary"></i></span> </div>
-                                            <div class="icon-content">
-                                                <h3 class="dez-tilte text-uppercase">Construction</h3>
-                                                <p>Lorem ipsum dolor sit adipiscing sed diam nonummy end [...]</p>
-                                            </div>
+        <!-- About Company -->
+        <div class="section-full  bg-gray content-inner-1" style="background-image: url(images/bg-img.png); background-repeat: repeat-x; background-position: left bottom -37px;">
+            <div class="container">
+                <div class="section-content">
+                    <div class="row">
+                        <div class="col-lg-7">
+                            <h2 class="text-uppercase"> About  Company</h2>
+                            <div class="dez-separator-outer ">
+                                <div class="dez-separator bg-secondry style-skew"></div>
+                            </div>
+                            <div class="clear"></div>
+                            <p><strong>Megatricity is a customer service oriented contractor and we always strive to do the right thing on behalf of our clients and partners in the industry. Our people love what they do and take pride in delivering excellent projects.</strong></p>
+                            <p class="m-b50">Megatricity is a customer service oriented contractor and we always strive to do the right thing on behalf of our clients and partners in the industry. Our people love what they do and take pride in delivering excellent projects </p>
+                            <div class="row">
+                                <div class="col-md-6 col-lg-6 col-sm-6">
+                                    <div class="icon-bx-wraper left m-b30">
+                                        <div class="icon-bx-sm bg-secondry "> <span class="icon-cell"><i class="fa fa-building-o text-primary"></i></span> </div>
+                                        <div class="icon-content">
+                                            <h3 class="dez-tilte text-uppercase">ELECTRICAL SERVICES</h3>
+                                            <p>we handle all electrical projects from residential, commercial to industrial.</p>
                                         </div>
                                     </div>
-                                    <div class="col-md-6 col-lg-6 col-sm-6">
-                                        <div class="icon-bx-wraper left m-b30">
-                                            <div class="icon-bx-sm bg-secondry "> <span class="icon-cell"><i class="fa fa-building-o text-primary"></i></span> </div>
-                                            <div class="icon-content">
-                                                <h3 class="dez-tilte text-uppercase">Architecture</h3>
-                                                <p>Lorem ipsum dolor sit adipiscing sed diam nonummy end [...]</p>
-                                            </div>
+                                </div>
+                                <div class="col-md-6 col-lg-6 col-sm-6">
+                                    <div class="icon-bx-wraper left m-b30">
+                                        <div class="icon-bx-sm bg-secondry "> <span class="icon-cell"><i class="fa fa-user text-primary"></i></span> </div>
+                                        <div class="icon-content">
+                                            <h3 class="dez-tilte text-uppercase">Solar Energy</h3>
+                                            <p>It's time to maximize the benefits of solar panels and we are the company to help you with the process, from start to finish.</p>
                                         </div>
                                     </div>
-                                    <div class="col-md-6 col-lg-6 col-sm-6">
-                                        <div class="icon-bx-wraper left m-b30">
-                                            <div class="icon-bx-sm bg-secondry "> <span class="icon-cell"><i class="fa fa-building-o text-primary"></i></span> </div>
-                                            <div class="icon-content">
-                                                <h3 class="dez-tilte text-uppercase">Consulting</h3>
-                                                <p>Lorem ipsum dolor sit adipiscing sed diam nonummy end [...]</p>
-                                            </div>
+                                </div>
+                                <div class="col-md-6 col-lg-6 col-sm-6">
+                                    <div class="icon-bx-wraper left m-b30">
+                                        <div class="icon-bx-sm bg-secondry "> <span class="icon-cell"><i class="fa fa-truck text-primary"></i></span> </div>
+                                        <div class="icon-content">
+                                            <h3 class="dez-tilte text-uppercase">Civil & Design</h3>
+                                            <p> We design Structures (Schematic & 3D model) and ensure that each project however small, is Innovative, detailed and built to highest standards.</p>
                                         </div>
                                     </div>
-                                    <div class="col-md-6 col-lg-6 col-sm-6">
-                                        <div class="icon-bx-wraper left m-b30">
-                                            <div class="icon-bx-sm bg-secondry "> <span class="icon-cell"><i class="fa fa-building-o text-primary"></i></span> </div>
-                                            <div class="icon-content">
-                                                <h3 class="dez-tilte text-uppercase">Mechanical</h3>
-                                                <p>Lorem ipsum dolor sit adipiscing sed diam nonummy end [...]</p>
-                                            </div>
+                                </div>
+                                <div class="col-md-6 col-lg-6 col-sm-6">
+                                    <div class="icon-bx-wraper left m-b30">
+                                        <div class="icon-bx-sm bg-secondry "> <span class="icon-cell"><i class="fa fa-book text-primary"></i></span> </div>
+                                        <div class="icon-content">
+                                            <h3 class="dez-tilte text-uppercase">Plumbing & Sewerage</h3>
+                                            <p>We give our customers choices in top-notch residential and commercial plumbing services.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-lg-6 col-sm-6">
+                                    <div class="icon-bx-wraper left m-b30">
+                                        <div class="icon-bx-sm bg-secondry "> <span class="icon-cell"><i class="fa fa-book text-primary"></i></span> </div>
+                                        <div class="icon-content">
+                                            <h3 class="dez-tilte text-uppercase">ICT</h3>
+                                            <p>We Help Clients Achieve Success through Technology. Our commitment to our clients remains our top priority.</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-5 col-md-12">
-                                <div class="dez-thu m-b30"><img src="images/worker.png" alt=""></div>
-                            </div>
+                        </div>
+                        <div class="col-lg-5">
+                            <div class="dez-thu m"><img src="images/paint.jpg" alt=""></div>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- About Company END -->
+        </div>
+        <!-- About Company END -->
             <!-- Counter -->
             <div class="section-full bg-gray bg-img-fix content-inner overlay-black-middle" style="background-image:url(images/background/bg12.jpg);">
                 <div class="container">

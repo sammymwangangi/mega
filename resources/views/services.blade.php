@@ -9,7 +9,7 @@
                 <div class="dez-bnr-inr-entry">
                     <h1 class="text-white ">All Services</h1>
 					<div class="dez-separator bg-primary"></div>
-					<p class="text-white max-w800">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley</p>
+					<p class="text-white max-w800">MEGATRICITY is composed of craftsmen who deliver unique products that are highly innovative and world Class</p>
                 </div>
             </div>
         </div>
@@ -18,7 +18,7 @@
         <div class="breadcrumb-row">
             <div class="container">
                 <ul class="list-inline">
-                    <li><a href="#">Home</a></li>
+                    <li><a href="{{url('/')}}">Home</a></li>
                     <li>All Services</li>
                 </ul>
             </div>
@@ -32,13 +32,12 @@
 					<div class="col-lg-3 col-md-4 col-sm-6">
 						<div class="widget_services style-2 m-b40">
 							<ul>
-								<li class="active"><a href="all-service.html">ALL SERVICES</a> </li>
-								<li><a href="construction.html">CONSTRUCTION</a>  </li>
-								<li><a href="renovations.html">RENOVATIONS</a>  </li>
-								<li><a href="big-projects.html">BIG PROJECTS</a>  </li>
-								<li><a href="consulting.html">CONSULTING</a> </li>
-								<li><a href="architecture.html">ARCHITECTURE</a> </li>
-								<li><a href="concrete-transport.html">CONCRETE TRANSPORT</a> </li>
+								<li class="active"><a href="{{url('services')}}">ALL SERVICES</a> </li>
+								<li><a href="{{url('electrical')}}">ELECTRICAL SERVICES</a>  </li>
+								<li><a href="{{url('civil')}}">CIVIL & DESIGN</a>  </li>
+								<li><a href="{{url('ict')}}">ICT</a>  </li>
+								<li><a href="{{url('solar')}}">SOLAR ENERGY</a> </li>
+								<li><a href="{{url('plumbing')}}">PLUMBING & SEWERAGE</a> </li>
 							</ul>
 						</div>
 						<div class="widget">
@@ -65,9 +64,9 @@
 						<div class="widget  widget_getintuch">
 							<h4 class="widget-title">Contact us</h4>
 							<ul>
-								<li><i class="fa fa-map-marker"></i><strong>address</strong> demo address #8901 Marmora Road Chi Minh City, Vietnam </li>
-								<li><i class="fa fa-phone"></i><strong>phone</strong>0800-123456 (24/7 Support Line)<br>
-									+ (20) 1234 0078 (Fax)</li>
+								<li><i class="fa fa-map-marker"></i><strong>address</strong> Ground Floor, Murerwa Flats, Donholm Rd – Emabakasi Nairobi, Kenya </li>
+								<li><i class="fa fa-phone"></i><strong>phone</strong>+254 (708) 054 155<br>
+									+254 (738) 445 381</li>
 							</ul>
 						</div>
 					</div>
@@ -75,61 +74,51 @@
 						<div class="row">
                             <div class="col-lg-4 col-md-6 m-b30">
                                 <div class="dez-box">
-                                    <div class="dez-media"> <a href="#"><img src="images/our-work/pic1.jpg" alt=""></a> </div>
+                                    <div class="dez-media"> <a href="{{url('electrical')}}"><img src="images/services/service1.png" alt=""></a> </div>
                                     <div class="dez-info">
-                                        <h4 class="dez-title m-t20"><a href="#">Construction</a></h4>
-                                        <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius [...] </p>
-                                        <a href="#" class="site-button">More</a>
+                                        <h4 class="dez-title m-t20"><a href="{{url('electrical')}}">Electrical Services</a></h4>
+                                        <p>we handle all electrical projects from residential, commercial to industrial. [...] </p>
+                                        <a href="{{url('electrical')}}" class="site-button">More</a>
 									</div>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 m-b30">
                                 <div class="dez-box">
-                                    <div class="dez-media"> <a href="#"><img src="images/our-work/pic2.jpg" alt=""></a> </div>
+                                    <div class="dez-media"> <a href="{{url('civil')}}"><img src="images/photos/civil/civil5.jpg" alt=""></a> </div>
                                     <div class="dez-info">
-                                        <h4 class="dez-title m-t20"><a href="#">Renovations</a></h4>
-                                        <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius [...] </p>
-                                        <a href="#" class="site-button">More</a>
+                                        <h4 class="dez-title m-t20"><a href="{{url('civil')}}">Civil & Design</a></h4>
+                                        <p>We design Structures (Schematic & 3D model) and ensure that each project however small, is Innovative, detailed and built to highest standards. [...] </p>
+                                        <a href="{{url('civil')}}" class="site-button">More</a>
 									</div>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 m-b30">
                                 <div class="dez-box">
-                                    <div class="dez-media"> <a href="#"><img src="images/our-work/pic3.jpg" alt=""></a> </div>
+                                    <div class="dez-media"> <a href="{{url('ict')}}"><img src="images/services/service4.png" alt=""></a> </div>
                                     <div class="dez-info">
-                                        <h4 class="dez-title m-t20"><a href="#">Big Projects</a></h4>
-                                        <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius [...] </p>
-                                        <a href="#" class="site-button">More</a>
+                                        <h4 class="dez-title m-t20"><a href="{{url('ict')}}">ICT</a></h4>
+                                        <p>We Help Clients Achieve Success through Technology. Our commitment to our clients remains our top priority. [...] </p>
+                                        <a href="{{url('ict')}}" class="site-button">More</a>
 									</div>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 m-b30">
                                 <div class="dez-box">
-                                    <div class="dez-media"> <a href="#"><img src="images/our-work/pic4.jpg" alt=""></a> </div>
+                                    <div class="dez-media"> <a href="{{url('solar')}}"><img src="images/services/service2.png" alt=""></a> </div>
                                     <div class="dez-info">
-                                        <h4 class="dez-title m-t20"><a href="#">Consulting</a></h4>
-                                        <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius [...] </p>
-                                        <a href="#" class="site-button">More</a>
+                                        <h4 class="dez-title m-t20"><a href="{{url('solar')}}">Solar Energy</a></h4>
+                                        <p>It's time to maximize the benefits of solar panels and we are the company to help you with the process, from start to finish. [...] </p>
+                                        <a href="{{url('solar')}}" class="site-button">More</a>
 									</div>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 m-b30">
                                 <div class="dez-box">
-                                    <div class="dez-media"> <a href="#"><img src="images/our-work/pic5.jpg" alt=""></a> </div>
+                                    <div class="dez-media"> <a href="{{url('plumbing')}}"><img src="images/photos/plumbing/plumbing4.jpg" alt=""></a> </div>
                                     <div class="dez-info">
-                                        <h4 class="dez-title m-t20"><a href="#">Architecture </a></h4>
-                                        <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius [...] </p>
-                                        <a href="#" class="site-button">More</a>
-									</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 m-b30">
-                                <div class="dez-box">
-                                    <div class="dez-media"> <a href="#"><img src="images/our-work/pic6.jpg" alt=""></a> </div>
-                                    <div class="dez-info">
-                                        <h4 class="dez-title m-t20"><a href="#">Concrete Transport </a></h4>
-                                        <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius [...] </p>
-                                        <a href="#" class="site-button">More</a>
+                                        <h4 class="dez-title m-t20"><a href="{{url('plumbing')}}">Plumbing & Sewerage </a></h4>
+                                        <p>We give our customers choices in top-notch residential and commercial plumbing services. [...] </p>
+                                        <a href="{{url('plumbing')}}" class="site-button">More</a>
 									</div>
                                 </div>
                             </div>

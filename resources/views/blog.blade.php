@@ -7,7 +7,7 @@
         <div class="dez-bnr-inr overlay-black-middle" style="background-image:url(images/background/bg4.jpg);">
             <div class="container">
                 <div class="dez-bnr-inr-entry">
-                    <h1 class="text-white">Blog grid 2 with sidebar</h1>
+                    <h1 class="text-white">Blog</h1>
                 </div>
             </div>
         </div>
@@ -16,8 +16,8 @@
         <div class="breadcrumb-row">
             <div class="container">
                 <ul class="list-inline">
-                    <li><a href="#">Home</a></li>
-                    <li>Blog grid 2 with sidebar</li>
+                    <li><a href="{{url('/')}}">Home</a></li>
+                    <li>Blog</li>
                 </ul>
             </div>
         </div>

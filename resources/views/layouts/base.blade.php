@@ -24,11 +24,6 @@
     <!-- MOBILE SPECIFIC -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <!--[if lt IE 9]>
-    <script src="http://constructzilla.dexignzone.com/xhtml/js/html5shiv.min.js"></script>
-    <script src="http://constructzilla.dexignzone.com/xhtml/js/respond.min.js"></script>
-    <![endif]-->
-    
     <!-- STYLESHEETS -->
     <link rel="stylesheet" type="text/css" href="{{asset ('css/plugins.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset ('css/style.css')}}">
@@ -156,9 +151,7 @@
                         <div class="col-lg-3 col-md-6 col-sm-6 footer-col-4">
                             <div class="widget widget_about">
                                 <div class="logo-footer"><img src="images/logo-dark.png" alt=""></div>
-                                <p><strong>Our mission </strong>is to build trust with leadership, certainty and value to ensure successful construction projects for our clients.
-
-</p>
+                                <p><strong>Our mission </strong>is to build trust with leadership, certainty and value to ensure successful construction projects for our clients.</p>
                                 <ul class="dez-social-icon dez-border">
                                     <li><a href="https://www.fb.com/megatricity" class="fa fa-facebook"></a></li>
                                     <li><a href="https://www.twitter.com/megatricity" class="fa fa-twitter"></a></li>
@@ -227,11 +220,11 @@
                                     <div class="dez-separator bg-white style-skew"></div>
                                 </div>
                                 <ul>
-                                    <li><a href="services-2.html">Electrical Services</a></li>
-                                    <li><a href="services-2.html">Solar Energy</a></li>
-                                    <li><a href="services-2.html">Civil</a></li>
-                                    <li><a href="services-2.html">Plumbing</a></li>
-                                    <li><a href="services-2.html">ICT</a></li>
+                                    <li><a href="{{url('electrical')}}">Electrical Services</a></li>
+                                    <li><a href="{{url('solar')}}">Solar Energy</a></li>
+                                    <li><a href="{{url('civil')}}">Civil</a></li>
+                                    <li><a href="{{url('plumbing')}}">Plumbing</a></li>
+                                    <li><a href="{{url('ict')}}">ICT</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -292,7 +285,7 @@
     <script src="{{asset ('js/custom.js')}}"></script><!-- CUSTOM FUCTIONS  -->
     <script src="{{asset ('js/dz.carousel.js')}}"></script><!-- SORTCODE FUCTIONS  -->
     <script src="{{asset ('js/dz.ajax.js')}}"></script><!-- CONTACT JS  -->
-    <script src="{{asset ('plugins/switcher/js/switcher.js')}}"></script><!-- CONTACT JS  -->
+    <!-- CONTACT JS  -->
     <!-- REVOLUTION JS FILES -->
     <script src="{{asset ('plugins/revolution/js/jquery.themepunch.tools.min.js')}}"></script>
     <script src="{{asset ('plugins/revolution/js/jquery.themepunch.revolution.min.js')}}"></script>

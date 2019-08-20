@@ -4,7 +4,7 @@
     <!-- Content -->
     <div class="page-content">
         <!-- inner page banner -->
-        <div class="dez-bnr-inr overlay-black-middle" style="background-image:url(images/background/bg4.jpg);">
+        <div class="dez-bnr-inr overlay-black-middle" style="background-image:url(images/photos/plumbing/plumbing2.jpg);">
             <div class="container">
                 <div class="dez-bnr-inr-entry">
                     <h1 class="text-white">Contact Us</h1>
@@ -16,7 +16,7 @@
         <div class="breadcrumb-row">
             <div class="container">
                 <ul class="list-inline">
-                    <li><a href="#">Home</a></li>
+                    <li><a href="{{url('/')}}">Home</a></li>
                     <li>Contact us</li>
                 </ul>
             </div>
@@ -95,31 +95,31 @@
                                     <div class="icon-bx-xs bg-primary"> <a href="#" class="icon-cell"><i class="fa fa-map-marker"></i></a> </div>
                                     <div class="icon-content">
                                         <h6 class="text-uppercase m-tb0 dez-tilte">Address:</h6>
-                                        <p>123 West Street, Melbourne Victoria 3000 Australia</p>
+                                        <p>Ground Floor, Murerwa Flats, Donholm Rd – Emabakasi Nairobi, Kenya</p>
                                     </div>
                                 </li>
                                 <li class="icon-bx-wraper left  m-b30">
                                     <div class="icon-bx-xs bg-primary"> <a href="#" class="icon-cell"><i class="fa fa-envelope"></i></a> </div>
                                     <div class="icon-content">
                                         <h6 class="text-uppercase m-tb0 dez-tilte">Email:</h6>
-                                        <p>info@company.com</p>
+                                        <p>info@megatricity.co.ke</p>
                                     </div>
                                 </li>
                                 <li class="icon-bx-wraper left">
                                     <div class="icon-bx-xs bg-primary"> <a href="#" class="icon-cell"><i class="fa fa-phone"></i></a> </div>
                                     <div class="icon-content">
                                         <h6 class="text-uppercase m-tb0 dez-tilte">PHONE</h6>
-                                        <p>+61 3 8376 6284</p>
+                                        <p>+254 (708) 054 155 <br>+254 (738) 445 381</p>
                                     </div>
                                 </li>
                             </ul>
 							<div class="m-t20">
 								<ul class="dez-social-icon dez-social-icon-lg">
-									<li><a href="javascript:void(0);" class="fa fa-facebook bg-primary"></a></li>
-									<li><a href="javascript:void(0);" class="fa fa-twitter bg-primary"></a></li>
-									<li><a href="javascript:void(0);" class="fa fa-linkedin bg-primary"></a></li>
-									<li><a href="javascript:void(0);" class="fa fa-pinterest-p bg-primary"></a></li>
-									<li><a href="javascript:void(0);" class="fa fa-google-plus bg-primary"></a></li>
+									<li><a href="https://www.fb.com/megatricity" class="fa fa-facebook bg-primary"></a></li>
+                                    <li><a href="https://www.twitter.com/megatricity" class="fa fa-twitter bg-primary"></a></li>
+                                    <li><a href="https://www.instagram.com/megatricity" class="fa fa-instagram bg-primary"></a></li>
+                                    <li><a href="https://www.youtube.com/channel/UCqjR25muSHsaJobHevUHVGg" class="fa fa-youtube bg-primary"></a></li>
+                                    <li><a href="https://houzz.com/pro/megatricity" class="fa fa-houzz bg-primary"></a></li>
 								</ul>
 							</div>
                         </div>
