@@ -7,7 +7,7 @@
         <div class="dez-bnr-inr overlay-black-middle" style="background-image:url(images/background/bg11.jpg);">
             <div class="container">
                 <div class="dez-bnr-inr-entry">
-                    <h1 class="text-white">Concrete Transport</h1>
+                    <h1 class="text-white">Civil & Design</h1>
 					<div class="dez-separator bg-primary"></div>
 					<p class="text-white max-w800">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley</p>
                 </div>
@@ -19,7 +19,7 @@
             <div class="container">
                 <ul class="list-inline">
                     <li><a href="#">Home</a></li>
-                    <li>Concrete Transport</li>
+                    <li>Civil & Design</li>
                 </ul>
             </div>
         </div>
